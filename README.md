@@ -1,1 +1,1 @@
-# cube-illusion
+# Rubik's Cube
